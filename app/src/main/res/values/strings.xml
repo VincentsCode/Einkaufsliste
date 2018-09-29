@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Einkaufsliste</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Produkt</string>
+    <string name="record_audio_is_required">Huiiiiiii</string>
+    <string name="add_widget">Add widget</string>
+    <string name="add">Hinzufügen</string>
+</resources>
